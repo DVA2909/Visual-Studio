@@ -32,6 +32,7 @@ void main()
 
 
 
+	/*
 	double a, june, july, august;
 	cout << "price kupalnika : "; cin >> a;
 	double p;
@@ -63,4 +64,5 @@ void main()
 	case Month::July: cout << "July price : " << july << endl;
 	case Month::August: cout << "August price : " << august << endl;
 	}
+	*/
 }
