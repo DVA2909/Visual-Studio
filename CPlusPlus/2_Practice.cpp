@@ -1,10 +1,10 @@
-#include <iostream>
-using namespace std;
+//#include <iostream>
+//using namespace std;
 
-enum Month { June = 1, July, August };
+//enum Month { June = 1, July, August };
 
-void main()
-{
+//void main()
+//{
 	/*
 	bool isLezhut = false;
 	float x, y;
@@ -65,4 +65,4 @@ void main()
 	case Month::August: cout << "August price : " << august << endl;
 	}
 	*/
-}
+//}
