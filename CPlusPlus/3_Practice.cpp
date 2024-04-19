@@ -1,10 +1,10 @@
-#include <iostream>
-using namespace std;
+//#include <iostream>
+//using namespace std;
 
 
 
-void main()
-{
+//void main()
+//{
 	/*
 	float kmInDay = 10;
 	int days = 0;
@@ -42,4 +42,4 @@ void main()
 	S = m * 1;
 	cout << "m = " << S << endl;
 	*/
-}
+//}
